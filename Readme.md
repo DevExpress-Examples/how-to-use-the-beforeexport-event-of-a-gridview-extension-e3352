@@ -1,4 +1,7 @@
 ### How to use the BeforeExport event of a GridView Extension
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3352/)**
+<!-- run online end -->
 
 This example demonstrates how to use the [BeforeExport](https://docs.devexpress.com/AspNet/DevExpress.Web.Mvc.MVCxGridExportSettings.BeforeExport) event to export selected GridView columns to a PDF file.
 
